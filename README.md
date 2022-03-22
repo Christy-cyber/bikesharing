@@ -1,5 +1,5 @@
 # NYC Citibike Challenge
-## Overview and Purpose
+## Overview and Deliverables
 Citibike rideshare data for August 2019 in New York City were analyzed in order to determine trends in bike usage across the city.  These findings will provide information for investors who may wish to fund a similar bikeshare program in Des Moines, Iowa. In addition to visualizations created for number of rides, customer type, peak hours, top starting and ending locations, gender breakdown, average trip duration, bike repairs, and bike utilization, the following deliverables were requested:
   - Checkout times for users
   - Checkout times by gender
@@ -26,6 +26,7 @@ Link to the NYC Bikeshare Story in the NYC_rideshare_Challenge workbook.  Read t
 ![Gender Breakdown](https://user-images.githubusercontent.com/95387273/159580834-1355d2b0-f059-439a-aee4-c4b392b37bbd.png)
 
 - There are a total of 2,344,224 individuals riding bikes in New York City.  65% are men, 25% are women, and 10% are 'unknown'.
+- [Link to Gender Breakdown in Tableau Public] (https://public.tableau.com/app/profile/christy2982/viz/GenderBreakdown_16479905433480/GenderBreakdown?publish=yes)
 
 
 
@@ -49,6 +50,7 @@ Link to the NYC Bikeshare Story in the NYC_rideshare_Challenge workbook.  Read t
 ![August Peak Hours](https://user-images.githubusercontent.com/95387273/159583930-35ad09d8-3fca-46c0-873b-1d48f2541c3b.png)
 
  - Bike usage is greatest at morning (8-9 am) and evening (4-7 pm) rush hours.
+ - [Link to August Peak Hours in Tableau Public] (https://public.tableau.com/app/profile/christy2982/viz/AugustPeakHours_16479903519590/AugustPeakHours?publish=yes)
 
 
 5) Number of bike trips by weekday per hour:
