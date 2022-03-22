@@ -8,8 +8,10 @@ Citibike rideshare data for August 2019 in New York City were analyzed in order 
   - User type (customer vs. subscriber) trips by gender by weekday
 
 ## Resources
-- Data: 
-- Software: Tableau Desktop Public Edition v. 2021.4.4; Jupyter Notebook
+- Data Source: 201908-citibike-tripdata.csv (downloaded from: https://s3.amazonaws.com/tripdata/index.html on 18 March 2022)
+- Software: Tableau Desktop Public Edition v. 2021.4.4; Jupyter Notebook v. 6.4.6
+
+Jupyter notebook was used to convert the "tripduration" column in the original Excel spreadsheet from an integer to a datetime datatype.  All other column data remained the same.  The new spreadsheet, which contained the datetime datatype for "tripduration," was named "citibike-trips.csv."
 
 ## Results
 
