@@ -18,7 +18,7 @@ Jupyter notebook was used to convert data from an integer to a datetime datatype
 ## Results
 ### Tableau NYC Bikeshare Story
 Link to the NYC Bikeshare Story in the NYC_rideshare_Challenge workbook.  Read through the story created with the five deliverable charts and graphs and two additional original charts.
-- [link to dashboard] (https://public.tableau.com/app/profile/christy2982/viz/NYC_rideshare_Challenge/Story--NYCBikeshareStory)
+- [link to dashboard in Tableau Public] (https://public.tableau.com/app/profile/christy2982/viz/NYC_rideshare_Challenge/Story--NYCBikeshareStory)
 
 ### Explanation of the Deliverables
  1) Gender breakdown:
@@ -35,6 +35,7 @@ Link to the NYC Bikeshare Story in the NYC_rideshare_Challenge workbook.  Read t
 ![Checkout Times for Users](https://user-images.githubusercontent.com/95387273/159582769-b02e9fd4-c722-44b5-b1f1-cdcca0bca428.png)
 
 - Most users ride bikes about 10 min.
+- [Link to Checkout Times for Users in Tableau Public] (https://public.tableau.com/app/profile/christy2982/viz/CheckoutTimesforUsers_16479908420560/CheckoutTimesforUsers?publish=yes)
 
 
 
@@ -43,6 +44,7 @@ Link to the NYC Bikeshare Story in the NYC_rideshare_Challenge workbook.  Read t
 ![Checkout Times by Gender](https://user-images.githubusercontent.com/95387273/159583277-b59b4ffc-c55e-4ba7-977e-72dea849f0d7.png)
 
  - Women and men ride for about the same length of time (10 min.), with men riding slightly longer than women.  Those in the "unknown" category ride anywhere from 10 to 30 min.
+ - [Link to Checkout Times by Gender in Tableau Public] (https://public.tableau.com/app/profile/christy2982/viz/CheckoutTimesbyGender_16479909988500/CheckoutTimesbyGender?publish=yes)
 
 
 4) August Peak hours:
@@ -58,6 +60,7 @@ Link to the NYC Bikeshare Story in the NYC_rideshare_Challenge workbook.  Read t
 ![Trips by Weekday per Hour](https://user-images.githubusercontent.com/95387273/159585060-89a4c93b-2d64-46ff-addf-2f03a76e7096.png)
 
 - Bike use corresponds to morning and evening rush hours for the work week from Monday through Friday.  Bike use during the weekend is distributed throughout the daytime on Saturday and Sunday with the greatest usage during the late morning on Saturday for all users.
+- [Link to Number of Bike Trips by Weekday per Hour in Tableau Public] (https://public.tableau.com/app/profile/christy2982/viz/Numberofbiketripsbyweekdayperhour/TripsbyWeekdayperHour?publish=yes)
 
 
 6)  Number of bike trips by gender (weekday per hour):
@@ -65,6 +68,7 @@ Link to the NYC Bikeshare Story in the NYC_rideshare_Challenge workbook.  Read t
 ![Trips by Gender wkdy per hr](https://user-images.githubusercontent.com/95387273/159585822-aa4b195b-5fc3-47d2-a602-d76c664f1b85.png)
 
 - Both men and women ride bikes primarily at morning and evening rush hour times during the work week from Monday through Friday, and late in the morning on Saturday.  Those in the "Unknown" category are most likely tourists who ride through the city during daylight hours on Saturday and Sunday.
+- [Link to Number of Bike Trips by Gender (Weekday per Hour) in Tableau Public] (https://public.tableau.com/app/profile/christy2982/viz/Numberofbiketripsbygenderweekdayperhour/TripsbyGenderwkdyperhr?publish=yes)
 
 
 7) User type (customer vs. subscriber) trips by gender by weekday:
@@ -72,6 +76,8 @@ Link to the NYC Bikeshare Story in the NYC_rideshare_Challenge workbook.  Read t
 ![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/95387273/159586543-587f1ca3-520e-407c-9f9e-35805b69ab21.png)
 
 - Both male and female *subscribers* showed similar usage throughout the week, with the highest use on Thursday and Friday.  Both male and female *customers* had the greatest bike use on the weekend, and are more likely tourists.  Those in the "unknown" category are more likely to be customers who have the greatest use on the weeend. "Unknown" subscribers show an even distribution of use across all weekdays.
+- [Link to User Trips by Gender by Weekday in Tableau Public] (https://public.tableau.com/app/profile/christy2982/viz/UserTripsbyGenderbyWeekday_16479914568910/UserTripsbyGenderbyWeekday?publish=yes)
+
 
 
 
