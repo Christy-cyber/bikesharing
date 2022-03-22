@@ -8,12 +8,19 @@ Citibike rideshare data for August 2019 in New York City were analyzed in order 
   - User type (customer vs. subscriber) trips by gender by weekday
 
 ## Resources
-- Data Source: 201908-citibike-tripdata.csv (downloaded from: https://s3.amazonaws.com/tripdata/index.html on 18 March 2022)
+- Data Source: 201908-citibike-tripdata.csv (downloaded from https://s3.amazonaws.com/tripdata/index.html on 18 March 2022)
 - Software: Tableau Desktop Public Edition v. 2021.4.4; Jupyter Notebook v. 6.4.6
 
-Jupyter notebook was used to convert the "tripduration" column in the original Excel spreadsheet from an integer to a datetime datatype.  All other column data remained the same.  The new spreadsheet, which contained the datetime datatype for "tripduration," was named "citibike-trips.csv."
+Tableau was used to create all charts and graphs.
+
+Jupyter notebook was used to convert data from an integer to a datetime datatype in the "tripduration" column from the original Excel spreadsheet.  All other column data remained the same.  The new spreadsheet, which contained the datetime datatype for "tripduration," was named "citibike-trips.csv" and was used in these analyses.
 
 ## Results
+### Tableau NYC Bikeshare Story
+Link to the NYC Bikeshare Story in the NYC_rideshare_Challenge workbook.  Read through the story created with the five deliverable charts and graphs and two additional original charts. [link to dashboard] (https://public.tableau.com/app/profile/christy2982/viz/NYC_rideshare_Challenge/Story--NYCBikeshareStory)
+
+### Explanation of the Deliverables
+
 
 
 ## Summary
